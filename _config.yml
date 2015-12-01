@@ -1,0 +1,29 @@
+# Site settings
+baseurl: ""
+url: "https://blog.anitas.com.br/"
+
+permalink: pretty
+
+# paginação do blog
+paginate: 5
+paginate_path: "/:num/"
+excerpt_separator: <!--resumo-->
+
+analytics: UA-69778566-1
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
