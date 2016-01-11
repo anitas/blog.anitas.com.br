@@ -57,4 +57,4 @@ Estamos preparando workshops, encontros e conteúdo altamente relevante para voc
 XO
 
 
-@juliamachado 
+@juliamachado - Idealizadora e Fundadora do Anitas
