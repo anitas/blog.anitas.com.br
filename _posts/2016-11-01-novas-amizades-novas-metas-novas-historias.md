@@ -29,3 +29,8 @@ Neste novo ano, vamos participar de 3 programas mundiais aqui em Floripa:
 - E ainda, para as interessadas em empreendedorismo aqui da região, o Startup Wekeend Woman, no final de Agosto.
 
 É isso aí! Que este ano venha cheio de coisas novas, sejam elas pessoas, metas, aprendizados, parcerias e uma nova realidade, com mais mulheres ocupando o setor de tecnologia e com muitas novas histórias de sucesso!
+
+
+XO
+
+@juliamachado - Idealizadora e Fundadora do Anitas
