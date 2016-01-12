@@ -31,6 +31,6 @@ Neste novo ano, vamos participar de 3 programas mundiais aqui em Floripa:
 É isso aí! Que este ano venha cheio de coisas novas, sejam elas pessoas, metas, aprendizados, parcerias e uma nova realidade, com mais mulheres ocupando o setor de tecnologia e com muitas novas histórias de sucesso!
 
 
-XO
+Abraço Meu!
 
-@juliamachado - Idealizadora e Fundadora do Anitas
+[Júlia Machado] (https://www.facebook.com/julia.machado.pinto) - Idealizadora e Fundadora do Anitas
