@@ -33,4 +33,4 @@ Neste novo ano, vamos participar de 3 programas mundiais aqui em Floripa:
 
 Abraço Meu!
 
-[Júlia Machado] (https://www.facebook.com/julia.machado.pinto) - Idealizadora e Fundadora do Anitas
+[Júlia Machado](https://www.facebook.com/julia.machado.pinto) - Idealizadora e Fundadora do Anitas
