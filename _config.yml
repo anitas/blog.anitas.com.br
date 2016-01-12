@@ -27,3 +27,5 @@ exclude: [
     .gitignore
 ]
 
+gems:
+  - jekyll-redirect-from
