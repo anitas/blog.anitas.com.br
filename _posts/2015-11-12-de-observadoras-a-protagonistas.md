@@ -54,7 +54,6 @@ Então, convidamos vocês, mulheres de Florianópolis e região, a fazerem o cad
 Estamos preparando workshops, encontros e conteúdo altamente relevante para vocês, que logo serão divulgados através do nosso site. Com tudo isso, acredito que vamos passar de observadoras para uma posição de protagonistas nas áreas de tecnologia e empreendedorismo.
 
 
-XO
+Abraço Meu!
 
-
-@juliamachado - Idealizadora e Fundadora do Anitas
+[Júlia Machado] (https://www.facebook.com/julia.machado.pinto) - Idealizadora e Fundadora do Anitas
