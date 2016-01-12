@@ -56,4 +56,4 @@ Estamos preparando workshops, encontros e conteúdo altamente relevante para voc
 
 Abraço Meu!
 
-[Júlia Machado] (https://www.facebook.com/julia.machado.pinto) - Idealizadora e Fundadora do Anitas
+[Júlia Machado](https://www.facebook.com/julia.machado.pinto) - Idealizadora e Fundadora do Anitas
