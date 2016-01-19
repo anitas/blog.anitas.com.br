@@ -26,9 +26,9 @@ Outro ponto interessante é que o App Inventor é uma aplicação de código abe
 O Technovation Challenge - programa mundial que as Anitas apoiam - fornece um guia básico passo a passo de como criar o seu primeiro aplicativo em português [aqui](http://www.technovationchallenge.org/wp-content/uploads/2015/01/tutorial-construcao_app-FaleComigo-pt.pdf)!
 
 Para mais recursos e tutoriais (em inglês), acesse:
-- http://appinventor.mit.edu/explore/ai2/tutorials.html
-- http://www.appinventor.org/
-- http://www.imagnity.com/tutorial-index/
+- (http://appinventor.mit.edu/explore/ai2/tutorials.html)
+- (http://www.appinventor.org/)
+- (http://www.imagnity.com/tutorial-index/)
 
 Você já usou o App Inventor? Compartilhe a sua experiência com a gente! :)
 
