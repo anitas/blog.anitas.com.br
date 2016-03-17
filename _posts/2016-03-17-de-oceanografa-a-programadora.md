@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "De Oceanógrafa a Programadora"
-image: 
+image: https://raw.githubusercontent.com/anitas/blog.anitas.com.br/gh-pages/images/post-de-oceanografa-a-progradadora-1.png
 comments: true
 ---
 
-
+![Nível de Previsão Geral das Marés](https://raw.githubusercontent.com/anitas/blog.anitas.com.br/gh-pages/images/post-de-oceanografa-a-progradadora-1.png "Nível de Previsão Geral das Marés")
 
 Nesta semana me pediram pra contar um pouco sobre como eu virei programadora (ou pelo menos estou no processo). Eu escrevi esse texto para contar um pouco mais sobre essa história.
 
@@ -29,6 +29,8 @@ Voltando do estágio cai na dura realidade: ninguém trabalhava com Python, ning
 No final da faculdade comecei a trabalhar numa multinacional com engenharia portuária e costeira. Matlab e Windows na veia. Mas, teimosa que sou, comecei a colocar Python no que eu podia. Apesar de afastada dos estudos contínuos, eu gostava muito da linguagem e queria continuar aprendendo (desde que eu fizesse algo útil). Então eu usei Python pra automatizar a produção de mapas num software chamado ArcGIS, depois desenvolvi um software pra calcular o tamanho de um navio com base em umas tabelas internacionais e até me aventurei brevemente pela web com o Django.
 
 Um belo dia decidi fazer mestrado e ai tomei a decisão de que todos os pré e pós processamentos seriam com Python. Também escolhi um modelo numérico que só poderia ser utilizado em ambiente Linux. Ai eu me desafiei de verdade. Resolvi sair da preguiça e aprender! Nem que fosse sozinha! (Mas mas não foi!). Um amigo muito próximo me ajudou muito e assim eu fui aprendendo ainda mais e gostando cada vez mais.
+
+![Batimetria GrdRegional](https://raw.githubusercontent.com/anitas/blog.anitas.com.br/gh-pages/images/post-de-oceanografa-a-progradadora-2.png "Batimetria GrdRegional")
 
 Nesse meio tempo o grupo da [Python Floripa](https://www.facebook.com/groups/python.floripa/) se formou. Na primeira reunião pedi pra um amigo ir comigo, porque tinha medo e vergonha de não saber o suficiente. Na última hora ele cancelou comigo! Acabei não desistindo e fui no encontro de qualquer forma. Eu era a única menina naquela primeira reunião e, pra melhorar, as palestras foram puramente sobre web. Eu não entendi nada, mas achei aquele mundo fantástico.
 
