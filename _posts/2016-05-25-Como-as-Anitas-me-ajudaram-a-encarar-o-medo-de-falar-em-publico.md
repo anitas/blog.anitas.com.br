@@ -5,7 +5,7 @@ image: images/kamila-hinkel-neoway-TDC.jpg
 comments: true
 ---
 
-![Trilha Arquitetura de Software, no TDC, em Florianópolis - SC](/images/kamila-hinkel-TDC.jpg "Trilha Arquitetura de Software, no TDC, em Florianópolis")
+![Trilha Arquitetura de Software, no TDC, em Florianópolis - SC](/images/kamila-hinkel-TDC.jpeg "Trilha Arquitetura de Software, no TDC, em Florianópolis")
 
 
 A ideia de falar em público para mim sempre é um pouco assustadora, uma sala com mais de três pessoas e o problema está feito. Boca seca, tremedeira.
@@ -25,7 +25,7 @@ A experiência foi completamente gratificante, acredito que ajudei várias menin
 
 
 ![2º Conexão Anitas, no General Lee, em Florianópolis - SC
-](/images/2-Conexao-Anitas-General-Lee-Florianopolis-SC.jpg "2º Conexão Anitas, no General Lee, em Florianópolis - SC
+](/images/2-Conexao-Anitas-General-Lee-Florianopolis-SC.JPG "2º Conexão Anitas, no General Lee, em Florianópolis - SC
 ")
 
 
