@@ -44,4 +44,4 @@ Convido  todas as mulheres a participarem dos encontros, a falarem no palco e se
 
 Uma palavra resume o meu sentimento pelo Anitas: *Gratidão <3*
 
-**Kamila Hinckel, Desenvolvedora na Neoway.**
+**[Kamila Hinckel](https://www.linkedin.com/in/kamila-santos-hinckel-a753969a/pt), Desenvolvedora na Neoway.**
