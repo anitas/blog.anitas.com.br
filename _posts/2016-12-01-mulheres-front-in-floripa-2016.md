@@ -8,7 +8,7 @@ comments: true
 ![Mulheres no Front in Floripa 2016](/images/15168751_746436152161152_8634080919577539891_o.jpg)
 
 
-Em 2015, poucas mulheres participaram do maior evento de Front-end de Santa Catarina. Esse ano não poderia ser assim de novo. Determinados a fazer sua parte para diminuir a desigualdade de gênero na tecnologia, o Front in Floripa pediu ajuda para a [JS4Girls](https://www.facebook.com/JS4Girls.Brasil.Florianopolis/) e para as Anitas. O esforço deu certo: 25% do público do evento eram mulheres e eu tive a honra de palestrar.
+Em 2015, poucas mulheres participaram do maior evento de Front-end de Santa Catarina. Esse ano não poderia ser assim de novo. Determinados a fazer sua parte para diminuir a desigualdade de gênero na tecnologia, o [Front in Floripa](https://www.facebook.com/frontinfloripa/) se uniu com o [JS4Girls](https://www.facebook.com/JS4Girls.Brasil.Florianopolis/) e as [Anitas](https://www.facebook.com/AnitasFloripa/). O esforço deu certo: 25% do público do evento eram mulheres e eu tive a honra de palestrar.
 
 <!--resumo-->
 
