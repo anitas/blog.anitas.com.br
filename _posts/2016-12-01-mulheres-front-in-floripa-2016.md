@@ -22,7 +22,9 @@ Sem precisar ser perfeita tudo ficou mais fácil. Sabe, quando ficamos ansiosos 
 
 Tive a oportunidade de falar um pouquinho do Anitas no começo. Expliquei sobre o projeto e porque ele é importante. Usei um exemplo que gosto muito: [na tecnologia, mulheres são o passarinho na mina de carvão](https://kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) querendo dizer: gente, **acorda**! Estamos em um ambiente tóxico e somos apenas o sintoma. Se continuar assim, vai fazer mal para todo mundo!
 
-![Você pode ver o vídeo aqui ;)](https://www.youtube.com/watch?v=65awRCU2g-w) 
+[![Você pode ver o vídeo aqui ;)](https://j.gifs.com/pgBnO2.gif)](https://www.youtube.com/watch?v=65awRCU2g-w) 
+
+**veja o vídeo**
 
 A palestra em si foi incrível :D. Falei um pouco sobre design, para que os programadores entendam seus designers e trabalhem melhor juntos. Sobre como transformar o design em um HTML + CSS melhor. Todo mundo riu das minhas piadas e acessaram os slides, vieram até conversar comigo depois. Fiz amizades novas, conversei até com o câmera (ele gosta de Star Trek também) e foi memorável <3
 
