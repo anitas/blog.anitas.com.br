@@ -24,8 +24,6 @@ Tive a oportunidade de falar um pouquinho do Anitas no começo. Expliquei sobre 
 
 [![Você pode ver o vídeo aqui ;)](https://j.gifs.com/pgBnO2.gif)](https://www.youtube.com/watch?v=65awRCU2g-w) 
 
-**Na tecnologia, mulheres são o passarinho na mina de carvão**
-
 A palestra em si foi incrível :D. Falei um pouco sobre design, para que os programadores entendam seus designers e trabalhem melhor juntos. Sobre como transformar o design em um HTML + CSS melhor. Todo mundo riu das minhas piadas e acessaram os slides, vieram até conversar comigo depois. Fiz amizades novas, conversei até com o câmera (ele gosta de Star Trek também) e foi memorável <3
 
 ![Como deixar seu designer feliz](/images/martinha2.jpg "Como deixar seu designer feliz!")
