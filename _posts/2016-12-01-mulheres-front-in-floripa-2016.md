@@ -34,6 +34,6 @@ A palestra em si foi incrível :D. Falei um pouco sobre design, para que os prog
 
 Espero ter outras oportunidades de palestrar novamente e dar coragem para outras mulheres. Quero ajudar na representatividade, quero que pensem "se tem uma menina gordinha, mancando, arrazando lá no palco, eu também posso". Quero ver metade das mulheres como palestrante, e não só uma, e metade do evento de mulheres e não 1/4. Vamos nessa? 
 
-[Mais fotos do evento em](https://www.facebook.com/pg/frontinfloripa/photos/?tab=album&album_id=746431112161656) 
+[Mais fotos do evento aqui!](https://www.facebook.com/pg/frontinfloripa/photos/?tab=album&album_id=746431112161656) 
 
 *[Marta Preuss](http://marta.preuss.nom.br) trabalha como webdesigner há dez anos e ainda tenta entender porque é tão difícil deixar a mulherada trabalhar.*
