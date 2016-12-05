@@ -28,9 +28,6 @@ Estar em Florianópolis, nos conectando com várias pessoas de áreas distintas,
 Ah, tudo isso em um lugar descolado, em um ambiente totalmente divertido, onde é possível nos sentirmos a vontade, com pessoas que adoram compartilhar tudo que sabem, pois nossas mentoras (res) foram simplesmente surpreendente, doaram seu tempo e conhecimento em 12h para nos ensinarem e trocarem experiências, obrigada galera!!!
 É um evento imperdível para você que ama tecnologia, porque reúne pessoas ótimas que se doam para ensinar e promover discussões atuais como a diversidade e tecnologia. Tivemos a oportunidade de conhecer o Jeliel que é trans, analista, desenvolvedora de sistemas e muito nerd e ama tecnologia, veio fazer um bate papo sobre pessoas e diversidade, o que nos chamou muito atenção foi “pessoas não são recursos”, finalizou com chave de ouro trazendo experiências marcantes e inspiradoras. Conheçam mais sobre esta pessoa inspiradora [aqui](http://www.jeliel.esy.es/)
 
-![Jeliel - bate papo sobre pessoas e diversidade](/images/WhatsApp Image 2016-12-03 at 11.35.01.jpeg "Jeliel - bate papo sobre pessoas e diversidade!")
-**Jeliel - bate papo sobre pessoas e diversidade**
-
 Nosso primeiro dia desenvolvendo com Ruby foi codar para criar uma ferramenta que gera ideias, onde tinha os campo com nome da idea, o campo para a descrição e ter a opção de fazer upload (inserir a imagem), já pensou fazer uma ferramenta geradora de ideias em algumas horas? 
 Se nós conseguimos programar em Ruby em algumas horas, você também pode, venha aprender a programar também... descubra qual linguagem você quer, se precisar de ajuda conte com agente, as comunidades estão de braços abertos.
 Mas, o que seria Ruby mesmo?
